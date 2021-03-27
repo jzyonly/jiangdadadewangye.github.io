@@ -1,0 +1,131 @@
+#max {margin:300px ;
+    
+margin-top: 1%;
+margin-right: 50%;
+
+    
+}
+
+.re {
+    position: relative;
+    height: 100px;
+}
+
+.re ul {
+    list-style-type: top;
+}
+
+.re ul>li {
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    transition: 1s;
+    opacity: 0;
+}
+
+
+
+#max ol {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(5, 75px);
+    grid-template-rows: auto;
+    grid-gap: 1em;
+    gap: 1em;
+    margin-top: 10px;list-style: none;
+    top: 0;
+    left: -500px;
+}
+
+  .aa  {
+    overflow: hidden;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      background-color: #333;
+    }
+    .aa ul {
+      list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+      }
+  
+  .xx li {
+    display: inline;
+  }
+  .xx li {
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  }
+  .xx  {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;}
+
+  
+
+  #box{color: rgb(8, 8, 8);
+      float:right;
+       position: static;
+      background-color: white(226, 21, 21);
+        padding-top: 20px;
+        padding-right:20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+      }#box1{color: rgb(8, 8, 8);
+        float:left; 
+        position: static;
+        background-color: white(25, 225, 240);
+          padding-top: 60px;
+          padding-right: 60px;
+          padding-bottom: 60px;
+          padding-left: 60px;
+        }#box2{color: rgb(8, 8, 8);
+          float:left; 
+          position: static;
+          background-color: white(231, 235, 10);
+            padding-top: 40px;
+            padding-right: 40px;
+            padding-bottom: 40px;
+            padding-left: 40px;
+          }
+
+          .lll{
+            width:100% ;
+        height: 400px;
+        background-color: white;
+          }
+
+          .ddd{
+        width:100% ;
+        height: 300px;
+        background-color: #e8e8e8;
+          }
+          .ss{
+            width: 1000px;
+          margin: 0 auto;
+        }
+
+      .ss li
+  {
+    list-style-type: none;
+    float:left;
+    width: 200px;
+    background: url() no-repeat right center;
+    text-align:center;
+    line-height: 30px;
+    font-family: "微软雅黑";
+  }
+   
+  
+  
+    
+    
+   
